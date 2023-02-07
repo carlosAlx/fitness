@@ -1,4 +1,5 @@
 export type Props = {
+  topOfPage?: boolean;
   page: string;
   selectedPage: SelectedPage;
   setSelectedPage: (value: SelectedPage) => void;

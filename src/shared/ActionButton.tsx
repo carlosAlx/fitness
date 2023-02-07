@@ -1,5 +1,5 @@
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import { SelectedPage } from "../navbar/type";
+import { SelectedPage } from "./type";
 
 type Props = {
   children: React.ReactNode;
